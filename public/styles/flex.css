@@ -50,6 +50,13 @@ body {
 h1 {
     font-size: 38px;
 }
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover {
+    color: #242229;
+}
 
 .aside {
     /*flex: flex-grow flex-shirink flex-base */
